@@ -1,0 +1,52 @@
+---
+title: "Business Analytics Dashboard"
+description: "Created data visualisations to convert raw business data into management insights."
+author: "Esha Esha"
+date: "2026-04-16"
+image: ../../images/analytics.jpg
+categories: [Analytics, Data, Business Intelligence]
+---
+
+# Project Overview
+
+This project focused on transforming raw business data into dashboards that support faster and better management decisions.
+
+## Tools Used
+
+- Excel  
+- Power BI  
+- Python  
+- Data Visualisation Techniques  
+
+## Dashboard Metrics
+
+- Revenue growth  
+- Customer segments  
+- Monthly trends  
+- KPI tracking  
+
+## Python Visualisation
+
+```{python}
+#| echo: false
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+months = ["Jan", "Feb", "Mar", "Apr", "May"]
+sales = [12, 18, 16, 24, 28]
+
+df = pd.DataFrame({"Month": months, "Sales": sales})
+
+plt.figure(figsize=(8,5))
+plt.plot(df["Month"], df["Sales"], marker="o")
+plt.title("Monthly Sales Growth")
+plt.ylabel("Sales (€000)")
+plt.xlabel("Month")
+plt.grid(True)
+plt.show()
+```
+
+## Learning Outcome
+
+This project showed how visual data analysis improves business planning, communication, and strategic decisions.

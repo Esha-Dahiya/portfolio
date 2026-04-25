@@ -1,0 +1,48 @@
+---
+title: "Applegreen Consumer Behaviour Project"
+description: "Market research study focused on customer needs, preferences, and purchasing behaviour."
+author: "Esha Esha"
+date: "2026-04-22"
+image: ../../images/applegreen.jpg
+categories: [Business, Marketing, Research]
+---
+
+# Project Overview
+
+This university project analysed customer behaviour for Applegreen to understand consumer expectations and service improvement opportunities.
+
+## Key Contributions
+
+- Conducted customer interviews  
+- Studied buying patterns  
+- Analysed customer priorities  
+- Presented recommendations  
+
+## Research Focus
+
+- Price sensitivity  
+- Service speed  
+- Product choice  
+- Customer experience  
+
+## Python Insight
+
+```{python}
+#| echo: false
+
+import matplotlib.pyplot as plt
+
+labels = ["Price", "Speed", "Choice", "Service"]
+values = [30, 25, 20, 25]
+
+plt.figure(figsize=(8,5))
+plt.bar(labels, values)
+plt.title("Top Purchase Drivers")
+plt.ylabel("Importance (%)")
+plt.xlabel("Factors")
+plt.show()
+```
+
+## Learning Outcome
+
+The project improved my understanding of how customer data can guide retail growth and loyalty strategies.

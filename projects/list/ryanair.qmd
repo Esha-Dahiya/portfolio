@@ -1,0 +1,44 @@
+---
+title: "Ryanair People Management Study"
+description: "Large team presentation evaluating people management practices and workforce strategy."
+author: "Esha Esha"
+date: "2026-04-20"
+image: ../../images/ryanair.jpg
+categories: [HRM, Strategy, Teamwork]
+---
+
+# Project Overview
+
+This project involved working with 22 students to evaluate the people management approach of Ryanair.
+
+## Areas Studied
+
+- Employee motivation
+- Leadership style
+- Workforce productivity
+- Operational efficiency
+
+## My Role
+
+- Conducted secondary research
+- Structured presentation slides
+- Delivered findings in group presentation
+
+## Python Example
+
+```{python}
+import matplotlib.pyplot as plt
+
+factors = ["Training","Leadership","Rewards","Culture"]
+scores = [8,7,6,8]
+
+plt.figure(figsize=(8,5))
+plt.plot(factors, scores, marker="o")
+plt.title("Employee Performance Drivers")
+plt.grid(True)
+plt.show()
+```
+
+## Learning Outcome
+
+Strong people management creates better service quality and lower employee turnover.

@@ -1,0 +1,49 @@
+---
+title: "E-Commerce Website Development"
+description: "Built a full stack online shopping platform using front end and back end technologies."
+author: "Esha Esha"
+date: "2026-04-18"
+image: ../../images/ecommerce.jpg
+categories: [Technology, Web Development, Digital]
+---
+
+# Project Overview
+
+This project involved building a responsive e-commerce platform focused on user experience, functionality, and online sales growth.
+
+## Main Features
+
+- Product catalogue  
+- User login system  
+- Shopping cart  
+- Checkout process  
+- Mobile responsive design  
+- Smooth navigation  
+
+## Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- PHP  
+- MySQL  
+
+## Python Visualisation
+
+```{python}
+#| echo: false
+
+import matplotlib.pyplot as plt
+
+pages = ["Home", "Products", "Cart", "Checkout"]
+visits = [500, 420, 260, 180]
+
+plt.figure(figsize=(8,5))
+plt.pie(visits, labels=pages, autopct="%1.1f%%", startangle=90)
+plt.title("Website User Traffic Flow")
+plt.show()
+```
+
+## Learning Outcome
+
+This project strengthened my web development skills and demonstrated how design quality can improve digital sales performance.

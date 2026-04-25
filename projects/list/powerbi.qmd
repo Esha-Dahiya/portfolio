@@ -1,0 +1,56 @@
+---
+title: "Power BI Assignment"
+description: "Group analytics project using Microsoft Power BI to analyse GlobalMart Ltd performance, profitability, sectors, and sales reps."
+author: "Esha Esha"
+date: "2025-11-11"
+image: ../../images/powerbi.jpg
+categories: [Analytics, Power BI, Dashboard, Data Visualisation]
+---
+
+## Project Overview
+
+This university group project used **Microsoft Power BI** to analyse GlobalMart Ltd transactional business data over a multi year period.
+
+The objective was to identify insights related to:
+
+- Profitability trends  
+- Sector performance  
+- Sales representative effectiveness  
+- Revenue patterns  
+- Cost efficiency  
+
+---
+
+## Tools Used
+
+- Microsoft Power BI  
+- DAX Measures  
+- Data Cleaning  
+- Dashboard Design  
+- Business Reporting  
+
+---
+
+## Key Findings
+
+- Education sector was most profitable  
+- Agriculture sector underperformed  
+- Discount strategy reduced margins  
+- Sales rep performance varied strongly  
+- Profit linked more to margin than volume  
+
+---
+
+## My Contribution
+
+- Dashboard development  
+- Data analysis  
+- Report writing  
+- Insight generation  
+- Team collaboration  
+
+---
+
+## Business Value
+
+This project improved my skills in business intelligence, dashboard storytelling, KPI design, and converting raw data into strategic decisions.

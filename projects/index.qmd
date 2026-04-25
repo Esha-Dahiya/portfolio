@@ -1,0 +1,27 @@
+---
+title: "Projects"
+listing:
+  contents: list
+  type: grid
+  categories: true
+  sort: "date desc"
+  fields: [image, title, description, categories]
+page-layout: full
+---
+
+# My Projects
+
+This section presents academic, technical, and business projects that reflect my development in strategy, analytics, teamwork, and digital skills.
+
+::: {.callout-note}
+Each project demonstrates practical learning outcomes from university studies and real world problem solving.
+:::
+## Quick Snapshot
+
+| Achievement | Value |
+|---|---|
+| Countries Worked In | 2 |
+| Academic Projects | 5+ |
+| Certifications | 6+ |
+| Languages | 3 |
+| Career Ambition | Global |
