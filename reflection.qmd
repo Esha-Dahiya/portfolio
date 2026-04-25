@@ -1,0 +1,37 @@
+---
+title: "Reflection"
+page-layout: full
+toc: true
+---
+
+# Reflection
+
+Developing this ePortfolio has been one of the most rewarding learning experiences of my university journey. It allowed me to combine business thinking, creativity, and digital skills into one professional platform that represents my identity and future ambitions.
+
+::: {.callout-note}
+This project was not only about creating a website. It was about building a professional presence for future career opportunities.
+:::
+
+## What I Learned
+
+Through this project, I developed valuable technical skills:
+
+- Quarto website development  
+- Git and version control  
+- GitHub publishing workflow  
+- Website layout and styling  
+- File organisation and project structure  
+
+I also strengthened important professional skills:
+
+- Planning and time management  
+- Problem solving  
+- Attention to detail  
+- Communication through design  
+- Personal branding  
+
+## Challenges Faced
+
+At the start, I found YAML formatting, folder structure, and rendering errors difficult. Small mistakes in file syntax often caused pages to break. Instead of giving up, I learned how to debug problems step by step, test changes carefully, and improve through practice.
+
+This experience taught me that persistence and patience are essential in digital project work.

@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Esha Esha Portfolio"
+  favicon: images/favicon.ico
+
+  navbar:
+    logo: images/logo.png
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects/index.qmd
+        text: Projects
+      - href: reflection.qmd
+        text: Reflection
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - text: CV
+        href: cv/Esha_CV.pdf
+        target: _blank
+
+      - icon: github
+        href: https://github.com/Esha-Dahiya
+        target: _blank
+
+      - icon: linkedin
+        href: https://www.linkedin.com/in/esha-2a036532a
+        target: _blank
+
+      - icon: envelope-fill
+        href: mailto:esha.esha2@mail.dcu.ie
+
+  page-footer:
+    left: "© 2026 Esha Esha"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - lux
+      - styles.scss
+
+    toc: true
+    toc-location: right
+
+    smooth-scroll: true
+    page-layout: full
+
+    code-fold: true
+    code-tools: true
+
+    mermaid:
+      theme: neutral
+
+    anchor-sections: true
+    link-external-newwindow: true
