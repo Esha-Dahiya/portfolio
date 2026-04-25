@@ -131,7 +131,7 @@ Creativity, confidence, networking, branding, and student events.
 
 ::: {.column width="33%"}
 
-![](images/dcu.jpg){width="100%" fig-alt="Rock Climbing"}
+![](images/DCU.jpg){width="100%" fig-alt="Rock Climbing"}
 
 ### Rock Climbing
 
