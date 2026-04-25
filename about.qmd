@@ -115,7 +115,7 @@ Coding society where I explore technology, innovation, networking, and problem s
 
 ::: {.column width="33%"}
 
-![](images/fs.jpg){width="100%" fig-alt="Fashion Society"}
+![](images/FS.jpg){width="100%" fig-alt="Fashion Society"}
 
 ### Fashion Society
 
